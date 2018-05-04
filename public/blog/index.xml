@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Syed Zoheb Ali Sumair | Front-End Developer</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Syed Zoheb Ali Sumair | Front-End Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jul 2017 09:42:47 +0530</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Introduction</title>
+      <link>/blog/an-introduction/</link>
+      <pubDate>Sat, 08 Jul 2017 09:42:47 +0530</pubDate>
+      
+      <guid>/blog/an-introduction/</guid>
+      <description>An Introduction to my Blog : Hope you people are doing good today. This is just an intrody=uction to my blog, where i&amp;rsquo;ll share my expertise and tech related stuff.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/blog/my-first-post/</link>
+      <pubDate>Tue, 04 Jul 2017 01:27:19 +0530</pubDate>
+      
+      <guid>/blog/my-first-post/</guid>
+      <description>lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simetlorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simetlorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet</description>
+    </item>
+    
+  </channel>
+</rss>

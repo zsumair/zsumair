@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Syed Zoheb Ali Sumair | Front-End Developer</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Syed Zoheb Ali Sumair | Front-End Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jul 2017 01:13:38 +0530</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>/post/welcome/</link>
+      <pubDate>Tue, 04 Jul 2017 01:13:38 +0530</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simetlorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simetlorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet lorem ipsum Dolor simet</description>
+    </item>
+    
+  </channel>
+</rss>
